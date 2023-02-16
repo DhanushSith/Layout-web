@@ -232,3 +232,6 @@ body{
 .blank{
 	background-color:none;
 }
+.justify{
+	justify-content:space-between;
+}
