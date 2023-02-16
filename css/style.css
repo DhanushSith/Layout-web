@@ -98,7 +98,7 @@ body{
 .nav-bar{
 	background-color:#fff;
 	height:50px;
-	width:auto;
+	width:100%;
 }
 .bg-image{
 	background-color:#49c069;
@@ -109,7 +109,7 @@ body{
 .learn-today{
 	background-color:#fff;
 	height:200px;
-	width:auto;
+	width:100%;
 }
 .cont-img{
 	background-color:#5bcf7a;
@@ -141,9 +141,9 @@ body{
     
 }
 .choose{
-	width: 66.66%;
-  	 flex: 0 0 auto;
-   	 padding: 0px;
+	width:66.66%;
+    flex:0 0 auto;
+    padding:0px;
 }
 .con-value{
 	align-items: center;
@@ -170,7 +170,7 @@ body{
 }
 .name{
 	background-color:#5bcf7a;
-	padding:10px 0px;
+	padding:40px 0px;
 }
 .corse{
 	background-color:white;
